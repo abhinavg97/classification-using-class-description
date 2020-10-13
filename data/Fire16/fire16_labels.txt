@@ -1,0 +1,28 @@
+0
+RESOURCES AVAILABLE
+Identify the messages which describe the availability of some resources.
+A relevant message must mention the availability of some resource like food, drinking water, shelter, clothes, blankets, human resources like volunteers, resources to build or support infrastructure, like tents, water filter, power supply and so on. Messages informing the availability of transport vehicles for assisting the resource distribution process would also be relevant. However, generalized statements without reference to any resource or messages asking for donation of money would not be relevant.
+1
+RESOURCES REQUIRED
+Identify the messages which describe the requirement or need of some resources.
+A relevant message must mention the requirement / need of some resource like food, water, shelter, clothes, blankets, human resources like volunteers, resources to build or support infrastructure like tents, water filter, power supply, and so on. A message informing the requirement of transport vehicles assisting resource distribution process would also be relevant. However, generalized statements without reference to any particular resource, or messages asking for donation of money would not be relevant.
+2
+MEDICAL RESOURCES AVAILABLE
+Identify the messages which give some information about availability of medicines and other medical resources.
+A relevant message must mention the availability of some medical resource like medicines, medical equipments, blood, supplementary food items (e.g., milk for infants), human resources like doctors/staff and resources to build or support medical infrastructure like tents, water filter, power supply, ambulance, etc. Generalized statements without reference to medical resources would not be relevant.
+3
+MEDICAL RESOURCES REQUIRED
+Identify the messages which describe the requirement of some medicine or other medical resources.
+A relevant message must mention the requirement of some medical resource like medicines, medical equipments, supplementary food items, blood, human resources like doctors/staff and resources to build or support medical infrastructure like tents, water filter, power supply, ambulance, etc. Generalized statements without reference to medical resources would not be relevant.
+4
+REQUIREMENTS / AVAILABILITY OF RESOURCES AT SPECIFIC LOCATIONS
+Identify the messages which describe the requirement or availability of resources at some particular geographical location.
+A relevant message must mention both the requirement or availability of some resource, (e.g., human resources like volunteers/medical staff, food, water, shelter, medical resources, tents, power supply) as well as a particular geographical location. Messages containing only the requirement / availability of some resource, without mentioning a geographical location would not be relevant.
+5
+ACTIVITIES OF VARIOUS NGOs / GOVERNMENT ORGANIZATIONS
+Identify the messages which describe on-ground activities of different NGOs and Government organizations.
+A relevant message must contain information about relief-related activities of different NGOs and Government organizations in rescue and relief operation. Messages that contain information about the volunteers visiting different geographical locations would also be relevant. However, messages that do not contain the name of any NGO / Government organization would not be relevant.
+6
+INFRASTRUCTURE DAMAGE
+Identify the messages which contain information related to infrastructure damage or restoration.
+A relevant message must mention the damage or restoration of some specific infrastructure resources, such as structures (e.g., dams, houses, mobile tower), communication infrastructure (e.g., roads, runways, railway), electricity, mobile or Internet connectivity, etc. Generalized statements without reference to infrastructure resources would not be relevant.

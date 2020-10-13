@@ -1,0 +1,164 @@
+{
+    "messages": [
+        "message",
+        "content",
+        "substance",
+        "subject_matter"
+    ],
+    "resources": [
+        "imagination",
+        "resource",
+        "resourcefulness"
+    ],
+    "availability": [
+        "availableness",
+        "handiness",
+        "accessibility",
+        "availability"
+    ],
+    "requirement": [
+        "essential",
+        "necessity",
+        "requisite",
+        "requirement",
+        "prerequisite",
+        "necessary",
+        "demand"
+    ],
+    "need": [
+        "ask",
+        "pauperism",
+        "involve",
+        "pauperization",
+        "take",
+        "motivation",
+        "motive",
+        "penury",
+        "require",
+        "call_for",
+        "indigence",
+        "want",
+        "need",
+        "necessitate",
+        "postulate",
+        "demand"
+    ],
+    "medicines": [
+        "medical_specialty",
+        "practice_of_medicine",
+        "medicate",
+        "medicinal_drug",
+        "medicine",
+        "medicament",
+        "music",
+        "medication"
+    ],
+    "medical": [
+        "checkup",
+        "medical_examination",
+        "medical",
+        "aesculapian",
+        "medical_checkup",
+        "medical_exam",
+        "health_check"
+    ],
+    "geographical": [
+        "geographic",
+        "geographical"
+    ],
+    "particular": [
+        "item",
+        "fussy",
+        "especial",
+        "peculiar",
+        "particular_proposition",
+        "finicky",
+        "picky",
+        "special",
+        "exceptional",
+        "finical",
+        "detail",
+        "specific",
+        "particular"
+    ],
+    "location": [
+        "localisation",
+        "locating",
+        "fix",
+        "emplacement",
+        "placement",
+        "position",
+        "positioning",
+        "location",
+        "localization"
+    ],
+    "different": [
+        "different",
+        "unlike",
+        "dissimilar"
+    ],
+    "government": [
+        "politics",
+        "government",
+        "government_activity",
+        "governing",
+        "authorities",
+        "regime",
+        "governance",
+        "political_science",
+        "administration"
+    ],
+    "activities": [
+        "natural_action",
+        "bodily_function",
+        "natural_process",
+        "action",
+        "activity",
+        "activeness",
+        "body_process",
+        "bodily_process"
+    ],
+    "organizations": [
+        "brass",
+        "organization",
+        "system",
+        "constitution",
+        "organisation",
+        "arrangement",
+        "governance",
+        "establishment",
+        "governing_body",
+        "formation",
+        "administration"
+    ],
+    "ngos": [
+        "NGO",
+        "nongovernmental_organization"
+    ],
+    "damage": [
+        "damage",
+        "legal_injury",
+        "wrong",
+        "price",
+        "equipment_casualty",
+        "impairment",
+        "hurt",
+        "terms",
+        "harm",
+        "scathe"
+    ],
+    "infrastructure": [
+        "infrastructure",
+        "base",
+        "substructure"
+    ],
+    "restoration": [
+        "renovation",
+        "restoration",
+        "regaining",
+        "Restoration",
+        "restitution",
+        "return",
+        "refurbishment"
+    ]
+}

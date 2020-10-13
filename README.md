@@ -1,1 +1,1 @@
-# classification-using-class-description
+# Classification Using Class Description

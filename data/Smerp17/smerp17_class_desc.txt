@@ -1,0 +1,16 @@
+0
+RESOURCES AVAILABLE
+Identify the messages which describe the availability of some resources.
+A relevant message must mention the availability of some resource like food, drinking water, shelter, clothes, blankets, blood, human resources like volunteers, resources to build or support infrastructure, like tents, water filter, power supply, etc. Messages informing the availability of transport vehicles for assisting the resource distribution process would also be relevant. Also, messages indicating any services like free wifi, sms, calling facility etc. will also be relevant. In addition, any message or announcement about donation of money will also be relevant. However, generalized statements without reference to any resource would not be relevant.
+1
+RESOURCES REQUIRED
+Identify the messages which describe the requirement or need of some resources.
+A relevant message must mention the requirement / need of some resource like food, water, shelter, clothes, blankets, human resources like volunteers, resources to build or support infrastructure like tents, water filter, power supply, blood and so on. A message informing the requirement of transport vehicles assisting resource distribution process would also be relevant. Also, messages requesting for any services like free wifi, sms, calling facility etc. will also be relevant. In addition, messages asking for donation of money will also be relevant. However, generalized statements without reference to any particular resource would not be relevant.
+2
+INFRASTRUCTURE DAMAGE
+Identify the messages which contain information related to infrastructure damage, restoration and casualties
+A relevant message must mention the damage or restoration of some specific infrastructure resources, such as structures (e.g., dams, houses, mobile towers), communication facilities (e.g., roads, runways, railway), electricity, mobile or Internet connectivity, etc. Messages reporting injury or death of people will also be relevant. Generalized statements without reference to infrastructure resources would not be relevant.
+3
+RESCUE ACTIVITIES
+Identify the messages which describe on-ground rescue activities of different NGOs and Government organizations.
+A relevant message must contain information about relief-related activities of different NGOs and Government organizations engaged in rescue and relief operation. Messages that contain information about the volunteers visiting different geographical locations would also be relevant. Messages indicating that organizations are accumulating money and other resources will also be relevant. However, messages that do not contain the name of any NGO / Government organization would not be relevant.

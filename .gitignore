@@ -1,0 +1,8 @@
+__pycache__/
+
+# venv
+venv/
+
+# CrisisNLP model
+
+data/crisisNLP_word2vec/crisisNLP_word_vector.bin
